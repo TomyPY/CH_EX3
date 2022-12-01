@@ -1,0 +1,32 @@
+[
+    {
+        "product": "Mobile",
+        "price": 2000,
+        "thumbnail": "example.com",
+        "_id": 1
+    },
+    {
+        "product": "Tablet",
+        "price": 6000,
+        "thumbnail": "example.com",
+        "_id": 2
+    },
+    {
+        "product": "Samsung Mobile",
+        "price": 3000,
+        "thumbnail": "example.com",
+        "_id": 3
+    },
+    {
+        "product": "Iphone Mobile",
+        "price": 2000,
+        "thumbnail": "example.com",
+        "_id": 4
+    },
+    {
+        "product": "Headphones",
+        "price": 6000,
+        "thumbnail": "example.com",
+        "_id": 5
+    }
+]
