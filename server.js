@@ -2,7 +2,7 @@ const express = require('express')
 const app = express()
 const Container = require('./database_handler')
 
-app.set('port', 8080)
+app.set('port', process.env.PORT || 8080)
 app.use(express.json())
 
 app.get('/products', (req,res)=>{
